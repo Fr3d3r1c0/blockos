@@ -4,4 +4,12 @@ function say(string, times)
   end
 end
 
-say("Hello World!!!", 10)
+-- variables
+  -- OS info
+    osName = "BlockOS"
+    osVersion = "1.0.0"
+    osOwner = "Project09"
+  -- deffault settings
+    -- user config
+      userName = {"", "", "", ""}
+      userTheme = {"dark", "dark", "dark", "dark"}
